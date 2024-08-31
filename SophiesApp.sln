@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SophiesApp.Server", "SophiesApp.Server\SophiesApp.Server.csproj", "{481A0D0A-AF85-471B-9A4C-EE715F2F24AC}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "sophiesapp.client", "sophiesapp.client\sophiesapp.client.esproj", "{96C83A34-9506-437B-B4FB-72B7A173D077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{481A0D0A-AF85-471B-9A4C-EE715F2F24AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481A0D0A-AF85-471B-9A4C-EE715F2F24AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481A0D0A-AF85-471B-9A4C-EE715F2F24AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481A0D0A-AF85-471B-9A4C-EE715F2F24AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96C83A34-9506-437B-B4FB-72B7A173D077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C83A34-9506-437B-B4FB-72B7A173D077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96C83A34-9506-437B-B4FB-72B7A173D077}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{96C83A34-9506-437B-B4FB-72B7A173D077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96C83A34-9506-437B-B4FB-72B7A173D077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96C83A34-9506-437B-B4FB-72B7A173D077}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CED5882A-A41C-4759-AD7B-DC65C118749F}
+	EndGlobalSection
+EndGlobal

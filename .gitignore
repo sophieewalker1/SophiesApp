@@ -1,0 +1,69 @@
+# Node modules
+node_modules/
+
+# Angular build output
+dist/
+build/
+
+# Angular CLI cache
+.angular/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+*.tmp
+
+# Environment files
+src/environments/*.ts
+
+# IDE/editor specific files
+.vscode/
+.vs/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.ncb
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.bak
+*.cache
+*.env
+*.pfx
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.tlb
+*.tlh
+*.lib
+*.sbr
+*.suo
+*.bak
+*.log
+*.tmp
+
+# Build results
+bin/
+obj/
+[Rr]elease*/
+[Dd]ebug*/
+packages/
+_ReSharper*/
+
+# NuGet packages folder
+packages/
+
+# Test results
+[Tt]est[Rr]esult*
